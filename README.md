@@ -3,7 +3,7 @@
 ### Descrição
 <p>Este projeto é uma recriação do clássico jogo Pong, desenvolvido utilizando a biblioteca p5.js em JavaScript. O Pong é um dos primeiros jogos eletrônicos e é conhecido por sua simplicidade e jogabilidade viciante. Nesta versão, mantivemos a mecânica básica do jogo enquanto adicionamos alguns recursos modernos para melhorar a experiência do usuário.</p>
 
-
+![download](https://github.com/user-attachments/assets/311b1dcf-e3e3-47b2-964d-32d1498eef7e)
 
 ### Funcionalidades
 <p>
